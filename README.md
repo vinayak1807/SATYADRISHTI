@@ -41,6 +41,9 @@ These challenges often result in increased processing time, higher operational c
 
 ---
 
+<img width="1600" height="1000" alt="Dashboard Satyadrishti" src="https://github.com/user-attachments/assets/90c2e78e-e7b4-4fa6-9404-73bee61ec388" />
+
+
 ## Objectives
 
 The primary objectives of SATYADRISHTI are:
